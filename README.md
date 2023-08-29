@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagashanantoputra&label=Profile%20views&color=0e75b6&style=flat" alt="bagashanantoputra" /> </p>
 
-- 🔭 I’m currently working on **Biometrika Indonesia**
+- 🔭 I’m working on **PT. Gunungmas Sukses Makmur**
 
-- 🌱 I’m currently learning **Next, Express & GO**
+- 🌱 I’m currently learning **Next, Express, GO & Spring Boot**
 
 - 💬 Ask me about **Anything**
 
