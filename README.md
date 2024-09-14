@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **danandjaya123@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nTCZLVA30tXROVa1wkZ8M3_uzWCqMHcZ/view?usp=sharing" target="blank">**Here...**</a>
+- 📄 Know about my experiences <a href="https://www.bagas.pro/experience" target="blank">**Here...**</a>
 
 - ⚡ Fun fact **I'am Funny**
 
